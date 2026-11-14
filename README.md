@@ -1,6 +1,8 @@
 # MOMAR — Plan the first Marswalk, and explore the lunar south pole
-VIDEO :
+**VIDEO**
 https://youtu.be/NEsPdoKwzB8?si=hqssM21Iwn1xqe6g
+
+
 **MOMAR** (Moon + Mars) is a prototype for NASA Space Apps 2026, challenge *Interplanetary Survival Guide: Martian Map*. It puts real data from many NASA, ESA and USGS missions in one place, so an explorer can answer three questions anywhere on Mars:
 
 1. **Where should I go?** Orbital imagery from 25 cm to 2.6 km per pixel, the USGS geologic map, CRISM mineral signals, thermal inertia, named features, Perseverance's and Curiosity's real traverses and Perseverance's photographs.
